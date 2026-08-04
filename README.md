@@ -1,5 +1,7 @@
 # on-device-motion-anomaly
-on-device-motion-anomaly using the xiao ML kit
+on-device-motion-anomaly using the Seeedstudio [xiao ML kit](https://www.seeedstudio.com/The-XIAOML-Kit.html)
+
+for normal motion such as a motors vibration anamoly detection to determine if bearing or a service is needed.
 
 
 
