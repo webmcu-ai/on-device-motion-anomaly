@@ -3,7 +3,7 @@ on-device-motion-anomaly using the Seeedstudio [xiao ML kit](https://www.seeedst
 
 for normal motion such as a motors vibration anamoly detection to determine if bearing or a service is needed.
 
-
+Live Demo at  https://webmcu-ai.github.io/on-device-motion-anomaly/index.html
 
 Slightly different than  https://github.com/webmcu-ai/on-device-motion  which has 3 classes which you could change to more classes.  This firmware has two classes
 
